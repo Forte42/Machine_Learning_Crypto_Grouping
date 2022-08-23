@@ -24,7 +24,7 @@ This notebook was made to practice using Scikit-learn to group datasets. Here ar
 
 ![pre pca chart](images/bokeh_plot.png)
 
-![post pca chart](images/bokeh_plot(1).png)
+![post pca chart](images/pca_plot.png)
 
 ---
 
